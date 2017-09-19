@@ -1,0 +1,20 @@
+{
+  "name": "mongo-blog-app",
+  "version": "1.0.0",
+  "description": "Brian and Matt's mongoose blog app project for thinkful (w5, tue)",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianjb-lfl/mongo-blog-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianjb-lfl/mongo-blog-app/issues"
+  },
+  "homepage": "https://github.com/brianjb-lfl/mongo-blog-app#readme"
+}
